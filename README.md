@@ -51,3 +51,7 @@ Para este projeto o desafio final envolve a entrega de uma API desenvolvida no f
 </table>
 
 Nosso servidor FastAPI deve trazer a planilha gerada em JSON, assim, como estamos apresentando um “Hello Word” neste exemplo. Para isso, deve ser dado um {Public_URL}/index no navegador para chegar ao nosso endpoint, pois criamos apenas uma rota, ou seja , /index .
+
+
+
+<a href="https://colab.research.google.com/drive/19d5Fe2bc3J1uBCIbsQ7b7TYV_P3fWqbe?usp=sharing" target="_blank"><b>LINK RESOLUÇÂO DO DESAFIO</b></a>
